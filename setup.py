@@ -10,8 +10,8 @@ setup(
     name='CountRecordRefs',
     version='0.1.0',
     description=(
-        'Command-line utility for updating references '
-        'to a record in a Specify database.'),
+        'Command-line utility for updating record '
+        'references in a Specify database.'),
     long_description=open(
         join(dirname(__file__), 'README.rst'), encoding='utf-8').read(),
     py_modules=['update_specify_refs'],
