@@ -7,7 +7,7 @@ from io import open
 
 
 setup(
-    name='CountRecordRefs',
+    name='UpdateSpecifyRefs',
     version='0.1.0',
     description=(
         'Command-line utility for updating record '
@@ -21,7 +21,7 @@ setup(
             'UpdateSpecifyRefs.py = update_specify_refs:main']},
     author='Markus Englund',
     author_email='jan.markus.englund@gmail.com',
-    url='https://github.com/jmenglund/CountRecordRefs',
+    url='https://github.com/jmenglund/UpdateSpecifyRefs',
     license='GPLv3',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
