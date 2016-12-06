@@ -1,6 +1,8 @@
 UpdateSpecifyRefs
 =================
 
+|License|
+
 Command-line utility for updating record references in a Specify database.
 The program outputs the number of affected records for each foreign key
 that is being updated.
