@@ -94,4 +94,4 @@ Author
 Markus Englund, `orcid.org/0000-0003-1688-7112 <http://orcid.org/0000-0003-1688-7112>`_
 
 .. |License| image:: https://img.shields.io/badge/license-GNU%20GPL%20version%203-blue.svg
-   :target: https://raw.githubusercontent.com/jmenglund/UpdateSpecifyRefs/master/LICENSE.txt
+   :target: https://github.com/jmenglund/UpdateSpecifyRefs/blob/master/LICENSE.txt
