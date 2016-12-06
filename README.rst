@@ -22,7 +22,7 @@ Prerequisites
 You need to have a `MySQL <https://www.mysql.com>`_  and a 
 `Specify <http://specifysoftware.org>`_ installed. The code make use of
 the Python packages `PyMySQL <https://github.com/PyMySQL/PyMySQL>`_ 
-and `CountRecordRefs <https://github.com/CountRecordRefs>`_. If you follow 
+and `CountRecordRefs <https://github.com/jmenglund/CountRecordRefs>`_. If you follow 
 the instructions below, the requred Python packages will be installed
 automatically for you.
 
